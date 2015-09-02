@@ -10,7 +10,7 @@
 
 
 
-
+var imoments = angular.module('imoments-app',[]);
 
 
 var wow = new WOW(
